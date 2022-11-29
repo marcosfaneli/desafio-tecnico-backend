@@ -26,7 +26,12 @@ Para executar
 
 # Observações
 Não foi incluído um banco de dados de fato, um fake foi criado
+
 Não foram implementados testes de integração
+
 O projeto de front encaminhado não foi possível executa-lo, um erro ocorre durante a instalação
+
 A captura de erros foi implementada usando a lib express-async-error
+
+A configuração de inclusão de middlewares carece de refatoração
 
